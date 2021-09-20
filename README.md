@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @perryizgr8
-- 👀 I’m interested in network protocols any new software technology.
+- 👀 I’m interested in network protocols and any new software technology.
 - 📫 Look at my [blog](http://perryizgr8.github.io/).
 
 <!---
